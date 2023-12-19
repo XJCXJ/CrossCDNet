@@ -3,6 +3,12 @@
 The Pytorch implementation for: "A Cross-domain Change Detection Network Based on Instance Normalization"，
 [pdf](https://www.mdpi.com/2072-4292/15/24/5785).
 
+<div align="center">
+  <img src="https://github.com/XJCXJ/CrossCDNet/blob/main/data/Fig.png">
+</div>
+
+
+
 # Usage
 Train
 ```
