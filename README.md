@@ -23,14 +23,14 @@ Visualization
 ```
 python tools/test.py configs/resnet_ibn/train_.py  CrossCDNet_r18_levir_workdir/best_mIoU_iter_40000.pth --show-dir your_save_path
 ```
-# result
+# Result
 Train set : LEVIR-CD
 <div align="center">
   <img src="https://github.com/XJCXJ/CrossCDNet/blob/main/data/Fig2.png">
 </div>
 
 
-# refenrence
+# Refenrence
 This project is implemented based on Open-CD
 https://github.com/likyoo/open-cd
 
