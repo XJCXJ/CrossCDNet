@@ -1,6 +1,7 @@
 # CrossCDNet
 
-The Pytorch implementation for: "A Cross-domain Change Detection Network Based on Instance Normalization"
+The Pytorch implementation for: "A Cross-domain Change Detection Network Based on Instance Normalization"，
+[pdf](https://www.mdpi.com/2072-4292/15/24/5785).
 
 # Usage
 Train
