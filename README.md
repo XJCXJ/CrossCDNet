@@ -35,6 +35,8 @@ This project is implemented based on Open-CD
 https://github.com/likyoo/open-cd
 
 # Citation
+If you find this project useful in your research, please consider cite:
+```
 @Article{rs15245785,
 AUTHOR = {Song, Yabin and Xiang, Jun and Jiang, Jiawei and Yan, Enping and Wei, Wei and Mo, Dengkui},
 TITLE = {A Cross-Domain Change Detection Network Based on Instance Normalization},
@@ -48,3 +50,4 @@ ISSN = {2072-4292},
 ABSTRACT = {},
 DOI = {10.3390/rs15245785}
 }
+```
